@@ -8,6 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     'jenkins.io/job-full-name': java/java-app-5
     argocd/app-name: java-app-5
+    argocd/instance-name: argoInstance1
 spec:
   type: service
   owner: development
